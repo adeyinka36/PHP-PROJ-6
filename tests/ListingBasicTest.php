@@ -137,7 +137,7 @@ class ListingBasicTest extends TestCase{
          $expected=["title"=>"title1","id"=>"1","website"=>"http://website.com","twitter"=>"mytwitter","email"=>"myemail@yahoo.com","status"=>"mystatus","image"=>"image.png"];
 
          $result=$instance->toArray();
-          var_dump($result);
+          
          $this->assertEquals($result, $expected);
       }
 }

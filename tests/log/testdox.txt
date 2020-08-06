@@ -1,0 +1,26 @@
+List Feautured
+ [x] Feautured get status
+ [x] Get coc
+
+Listing Basic
+ [x] Empty listing basic returns exception
+ [x] Id in data input
+ [x] Title in data input
+ [x] I nstance of basic listing
+ [x] Get status returns basic
+ [x] Get id
+ [x] Get title
+ [x] Get website
+ [x] Get twitter
+ [x] Get status
+ [x] To array
+
+Listing Image
+ [x] No image
+ [x] Full path image
+ [x] Build path image
+
+Listing Premium
+ [x] Get status returns premium
+ [x] Get description result
+
